@@ -1,0 +1,13 @@
+.Container div{
+    border: 1px solid #ccc;
+    border-top: 0;
+}
+
+.firstColumn{
+    width: 150px;
+    height: 30px;
+    border: 1px solid #CCCCCC;
+    position: fixed;
+    top: 50px;
+    background: #fff;
+}
