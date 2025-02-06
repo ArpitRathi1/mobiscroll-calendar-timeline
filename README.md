@@ -4,7 +4,7 @@ This project is a desktop view replica of the Mobiscroll monthly calendar timeli
 
 ## Demo
 
-[Live Demo](#) (Update with the actual link)
+[Live Demo](https://mobiscroll-calender-timeline.netlify.app/)
 
 ## Features
 
