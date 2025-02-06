@@ -31,7 +31,7 @@ Make sure you have Node.js and npm installed.
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/your-username/mobiscroll-calendar-timeline.git
+   git clone https://github.com/ArpitRathi1/mobiscroll-calendar-timeline.git
    ```
 
 2. Navigate to the project directory
